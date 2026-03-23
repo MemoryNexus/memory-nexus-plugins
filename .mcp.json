@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "memory-nexus": {
+      "command": "python",
+      "args": ["-m", "mcp_server.server"],
+      "env": {
+        "MEMORY_NEXUS_API_KEY": "${MEMORY_NEXUS_API_KEY}",
+        "MEMORY_NEXUS_API_BASE": "${MEMORY_NEXUS_API_BASE:https://api.memory-nexus.org}"
+      }
+    }
+  }
+}

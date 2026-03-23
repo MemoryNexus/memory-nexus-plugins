@@ -1,0 +1,7 @@
+{
+  "name": "Memory Nexus",
+  "description": "Persistent knowledge layer for Claude Code. Store context, retrieve briefings, and maintain continuity across sessions.",
+  "version": "0.1.0",
+  "author": "Memory Nexus",
+  "homepage": "https://memory-nexus.org"
+}
