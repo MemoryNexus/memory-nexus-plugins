@@ -2,6 +2,8 @@
 
 Persistent knowledge layer for Claude Code. Store context, retrieve briefings, and maintain continuity across sessions.
 
+[![Memory Nexus MCP server](https://glama.ai/mcp/servers/MemoryNexus/memory-nexus-plugins/badges/card.svg)](https://glama.ai/mcp/servers/MemoryNexus/memory-nexus-plugins)
+
 ## Installation
 
 1. Create an account at [memory-nexus.org](https://memory-nexus.org)
